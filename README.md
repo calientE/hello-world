@@ -1,2 +1,5 @@
 # hello-world
-Home Repo!
+
+calientE here!
+
+I am not new to programming AND I know the basicS.
